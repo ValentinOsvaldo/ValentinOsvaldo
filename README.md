@@ -1,9 +1,10 @@
 <div align="center">
   <img src="https://i.imgur.com/JNmesUp.png" alt="Osvaldo Valentin" />
   <h1>Osvaldo Valentin Garcia</h1>
+  <div>
+    📞 +52 8123 2363 94 | 📧 ovalentindev@gmail.com | 🌐 [ovalentin.dev](https://ovalentin.dev) | 📌 San Nicolas de los Garza, N.L, México
+  </div>
 </div>
-
-📞 +52 8123 2363 94 | 📧 ovalentindev@gmail.com | 🌐 [ovalentin.dev](https://ovalentin.dev) | 📌 San Nicolas de los Garza, N.L, México
 
 ## Habilidades
 
