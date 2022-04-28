@@ -20,6 +20,10 @@ Habilidades para el **trabajo en equipo**, **responsabilidad**, **compromiso soc
 
 *Desarrollo de interfaces de usuario dinámicas y estáticas con HTML, CSS y Javascript  Implementando librerias que nos fueran de utilidad para las tareas a realizar*.
 
+## Educación
+
+- Técnico en informática | CONALEP | 2017 - 2020
+
 ## Proyectos
 
 🛠 **[Pokemon Game App](https://valentin-pokemon-app.netlify.app/)**: ¿Podrás adivinar cuál es ese pokemon?
