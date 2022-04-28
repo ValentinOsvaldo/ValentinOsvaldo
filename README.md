@@ -1,6 +1,6 @@
-<aside align="center">
+<div align="center">
   <img src="https://i.imgur.com/JNmesUp.png" alt="Osvaldo Valentin" />
-</aside>
+</div>
 
 # Osvaldo Valentin Garcia
 
