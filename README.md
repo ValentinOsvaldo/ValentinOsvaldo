@@ -2,8 +2,6 @@
 
 📞 +52 8123 2363 94 | 📧 ovalentindev@gmail.com | 🌐 [ovalentin.dev](https://ovalentin.dev) | 📌 San Nicolas de los Garza, N.L, México
 
----
-
 ## Habilidades
 
 Desarrollador Front End con conocimientos solidos en **HTML5**, **CSS3** , **Javascript ES6+**,  **Typescript**, **React**, **NodeJs** (**Express**) y **servicios REST**.
