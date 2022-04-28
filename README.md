@@ -16,15 +16,11 @@ Interés  en el desarrollo de aplicaciones móviles con **Flutter** y **React Na
 
 Habilidades para el **trabajo en equipo**, **responsabilidad**, **compromiso social**, **resiliencia**, **aprendizaje constante** e **independiente.**
 
----
-
 ## Experiencia
 
 **DESARROLLADOR FRONT END:** AETO | Torreon, Coahuila | 2022
 
 *Desarrollo de interfaces de usuario dinámicas y estáticas con HTML, CSS y Javascript  Implementando librerias que nos fueran de utilidad para las tareas a realizar*.
-
----
 
 ## Proyectos
 
