@@ -1,6 +1,6 @@
 # Osvaldo Valentin Garcia
 
-+52 8123 2363 94 | ovalentindev@gmail.com | [ovalentin.dev](https://ovalentin.dev) | San Nicolas de los Garza, N.L, México
+📞 +52 8123 2363 94 | 📧 ovalentindev@gmail.com | 🌐 [ovalentin.dev](https://ovalentin.dev) | 📌 San Nicolas de los Garza, N.L, México
 
 ---
 
