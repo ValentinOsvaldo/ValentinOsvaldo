@@ -1,4 +1,6 @@
-![logo](https://i.imgur.com/JNmesUp.png)
+<aside align="center">
+  <img src="https://i.imgur.com/JNmesUp.png" alt="Osvaldo Valentin" />
+</aside>
 
 # Osvaldo Valentin Garcia
 
