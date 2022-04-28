@@ -1,4 +1,4 @@
-![logo](https://i.imgur.com/YXknRze.png)
+![logo](https://i.imgur.com/JNmesUp.png)
 
 # Osvaldo Valentin Garcia
 
