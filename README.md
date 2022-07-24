@@ -1,33 +1,43 @@
-<div align="center">
-  <img src="https://i.imgur.com/JNmesUp.png" alt="Osvaldo Valentin" />
-  <h1>Osvaldo Valentin Garcia</h1>
-  <div>
-    📞 +52 8123 2363 94 | 📧 ovalentindev@gmail.com | 🌐 <a href="https://ovalentindev.vercel.app/">ovalentindev</a> | 📌 San Nicolas de los Garza, N.L, México
-  </div>
-</div>
+# Hola, soy Osvaldo Valentin y soy Front End Developer 👋
 
-## Habilidades
+*Hi, my name is Osvaldo Valentin and I'm a Front End Developer*
 
-Desarrollador Front End con conocimientos solidos en **HTML5**, **CSS3** , **Javascript ES6+**,  **Typescript**, **React**, **NodeJs** (**Express**) y **servicios REST**.
+Soy egresado de la carrera como **Técnico Superior en Informática**, me desempeño realizando mi rol como **Front End Developer** pero me gusta aportar mi conocimiento como **UI/UX Designer**.
 
-Conocimiento avanzados en interfaces de usuario (UI) (**SASS, Bootstrap, CSS Modules, Styled Components)** y **responsive design**.
+*I am a graduate of the career as **Computer Technician**, I perform my role as **Front End Developer** but I like to contribute my knowledge as a **UI/UX Designer**.*
 
-Manejo de controladores de versiones con **GIT** y **GITHUB**.
+- 📍 San Nicolas de los Garza, Nuevo León, México
 
-Interés  en el desarrollo de aplicaciones móviles con **Flutter** y **React Native.**
+## Habilidades | Skills 🚀
 
-Habilidades para el **trabajo en equipo**, **responsabilidad**, **compromiso social**, **resiliencia**, **aprendizaje constante** e **independiente.**
+```js
+const SKILLS = {
+  frontEnd: [
+    'HTML',
+    'CSS',
+    'Javascript',
+    'ReactJs',
+    'Typescript'
+  ],
+  backEnd: [
+    'NodeJs',
+    'PHP',
+  ],
+  mobile: {
+    'React Native',
+  },
+  design: [
+    'Figma',
+    'Adobe XD',
+  ],
+};
+```
 
-## Experiencia
+## Contacto
+<hr />
 
-**DESARROLLADOR FRONT END:** AETO | Torreon, Coahuila | 2022
+[🚀 Linkedin](https://www.linkedin.com/in/valentin-osvaldo/)
 
-*Desarrollo de interfaces de usuario dinámicas y estáticas con HTML, CSS y Javascript  Implementando librerias que nos fueran de utilidad para las tareas a realizar*.
+[🌐 Website](https://ovalentindev.vercel.app/)
 
-## Educación
-
-- Técnico en informática | CONALEP | 2017 - 2020
-
-## Proyectos
-
-🛠 **[Pokemon Game App](https://valentin-pokemon-app.netlify.app/)**: ¿Podrás adivinar cuál es ese pokemon?
+[😺 Github](https://github.com/ValentinOsvaldo)
