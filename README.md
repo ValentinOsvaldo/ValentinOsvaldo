@@ -34,7 +34,6 @@ const SKILLS = {
 ```
 
 ## Contacto
-<hr />
 
 [🚀 Linkedin](https://www.linkedin.com/in/valentin-osvaldo/)
 
