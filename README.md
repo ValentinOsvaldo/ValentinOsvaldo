@@ -21,6 +21,7 @@ const SKILLS = {
   ],
   backEnd: [
     'NodeJs',
+    'ExpressJs',
     'PHP',
   ],
   mobile: {
