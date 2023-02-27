@@ -31,8 +31,3 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/ValentinOsvaldo/ValentinOsvaldo/blob/output/snake.svg" alt="Snake animation" />
-
-###
