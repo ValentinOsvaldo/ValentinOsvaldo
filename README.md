@@ -42,8 +42,8 @@ An interactive quiz app built with React to help users test their knowledge of w
 ## 📫 How to Reach Me
 
 - LinkedIn: [Valentin Osvaldo](https://www.linkedin.com/in/valentinosvaldo)
-- Portfolio: [Your Portfolio]([https://your-portfolio.com](https://valentin-osvaldo.vercel.app/en))
-- Email: valentingarcia.osvaldo@gmail.com
+- Portfolio: [Your Portfolio](https://valentin-osvaldo.vercel.app/en)
+- Email: [valentingarcia.osvaldo@gmail.com](mailto:valentingarcia.osvaldo@gmail.com)
 
 
 ---
