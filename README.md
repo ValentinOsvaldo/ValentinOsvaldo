@@ -6,10 +6,9 @@ Welcome to my GitHub profile! I'm a passionate front-end developer with experien
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **Vue** to expand my backend knowledge.
+- 🌱 I’m currently learning **Vue** to expand my frontend knowledge.
 - 🧠 Constantly improving my skills in **Front-End** and **Mobile Development**.
 - 💼 Looking for interesting front-end projects to showcase my Vue.js skills.
-- 🎮 Developing a game called *Breaking Out* in Unity with my university teammates.
 - 📚 Interested in creating projects with a strong focus on performance and scalability.
 
 ---
